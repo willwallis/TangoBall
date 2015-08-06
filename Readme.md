@@ -1,9 +1,9 @@
 
 ## Overview
-Roll Ball game is a basic 3D game built in Unity 3D. They player uses the arrow keys to move a ball and collect objects. Based on Roll-a-ball tutorial on Unity 3D website.
+This is a Project Tango port of the basic Unity 3D Roll Ball game. 
 
 ## Motivation
-Working towards developing application for the Project Tango tablet. Learning Unity 3D to build world.
+Built to learn how to use pose data provided by Project Tango tablet. This data include position and rotation. This project uses the position to manipulate the ball and the rotation to move the camera into a perspective where the player feels the ball will move forwards when they walk fowards. 
 
 ## Contributors
 Just Me
